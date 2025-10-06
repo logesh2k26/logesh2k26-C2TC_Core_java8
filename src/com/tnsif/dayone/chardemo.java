@@ -1,4 +1,4 @@
-package day_one;
+package com.tnsif.dayone;
 
 public class CharDemo {
 	public static void main(String[] args) {
