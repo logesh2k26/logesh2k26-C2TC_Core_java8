@@ -1,4 +1,4 @@
-package day_3.encapsulation;
+package com.tnsif.daytree.encapsulation;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) {
