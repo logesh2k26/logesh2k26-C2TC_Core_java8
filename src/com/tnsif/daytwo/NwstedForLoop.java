@@ -1,4 +1,4 @@
-package day_2;
+package com.tnsif.daytwo;
 
 public class NwstedForLoop {
 	public static void main(String[] args) {
