@@ -1,3 +1,4 @@
+//Program to demonstrate class and object 
 package com.tnsif.daythree.encapsulation;
 
 public class EncapsulationDemo {

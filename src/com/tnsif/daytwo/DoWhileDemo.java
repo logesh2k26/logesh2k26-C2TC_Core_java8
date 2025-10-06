@@ -1,6 +1,7 @@
+//Program to demonstrate  do while loop
 package com.tnsif.daytwo;
 
-public class DoWhile {
+public class DoWhileDemo {
 	public static void main(String[] args) {
 		int i = 11;
 		do {
@@ -8,5 +9,4 @@ public class DoWhile {
 			i++;
 		} while (i <= 1);
 	}
-
 }

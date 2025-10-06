@@ -1,6 +1,7 @@
+//Program to demonstrate if..else statement
 package com.tnsif.daytwo;
 
-public class IfElse {
+public class IfElseDemo {
 	public static void main(String[] args) {
 		int age=11;
 		
@@ -12,4 +13,5 @@ public class IfElse {
 		System.out.println("if else demonstration");
 		
 	}
+
 }

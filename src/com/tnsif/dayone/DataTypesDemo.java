@@ -1,6 +1,9 @@
+//Program to demonstrate Data types
 package com.tnsif.dayone;
 
-public class datatypedemo {
+
+public class DataTypesDemo {
+
 	public static void main(String[] args) {
 
 		int value1 = 9 / 2; //integer division

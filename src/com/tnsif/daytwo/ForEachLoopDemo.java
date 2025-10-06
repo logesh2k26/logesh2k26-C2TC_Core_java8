@@ -1,8 +1,9 @@
+//Program to demonstrate for each loop
 package com.tnsif.daytwo;
-
-public class ForEachLoop {
+public class ForEachLoopDemo {
 	public static void main(String[] args) {
 		int a[]= {10,20,30,40,50};	
+//for integer array
 		for(int i:a)
 		{
 		System.out.println(i);	
@@ -15,10 +16,10 @@ public class ForEachLoop {
 		}
 		System.out.println(" ");
 		String s1[]= {"Java","programming","learning"};
+//for String array
 		for(String s:s1)
 		{
 			System.out.print(s+" ");		
 		}
 	}
-
 }

@@ -1,3 +1,4 @@
+//Program to demonstrate encapsulation
 package com.tnsif.daythree.scannerdemo;
 
 import java.util.Scanner;

@@ -1,24 +1,29 @@
+//Program to demonstrate type casting between primitive types
 package com.tnsif.dayone;
 
-public class typecasting {
+public class TypeCastingDemo {
+
 	public static void main(String[] args) {
-	
+		// widening / implicit type casting
+		
 		byte b = 10; 
-		int i = b;
+		int i = b; //4 bytes
 		System.out.println(i);
 		
-		float f = 22.14f;	
-		double d = f;	
+		float f = 22.14f;	// 4 bytes
+		double d = f;		// 8 byteas
 		System.out.println(d);
 		
-		char ch = 'A';
-		int i3 = ch;	
+		char ch = 'A';	// 2 bytes
+		int i3 = ch;	// 4 bytes
 		System.out.println(i3);
 		
 		char var1 = '\u00A7';
 		int i4 = var1;
 		System.out.println(i4);
 		
+		// narrowing/explicit type casting
+
 		double f1 = 10.52f;	
 		long l = (long) f1;
 		System.out.println(l);

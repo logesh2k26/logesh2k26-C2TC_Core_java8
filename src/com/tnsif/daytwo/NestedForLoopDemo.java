@@ -1,7 +1,12 @@
+//Program to demonstrate nested loops
 package com.tnsif.daytwo;
 
-public class NwstedForLoop {
+
+
+public class NestedForLoopDemo {
 	public static void main(String[] args) {
+		// program to print the multiplication tables in a given range by using nested
+		// for loop
 		int beg=10;
 		int end=20;
 

@@ -1,6 +1,7 @@
+//Program to demonstrate  different operators(ternary,airthmetic,pre/post incrementation/decrementation) in java
 package com.tnsif.daytwo;
 
-public class Operators {
+public class OperatorsDemo {
 	public static void main(String args[]) {
 		int a = 10;
 		int b = 20;
@@ -15,6 +16,8 @@ public class Operators {
 System.out.println("d value after the operations: " + d);
 
 		System.out.println("a , b,c,d values after the operations: " + a + " " + b + " " + c + " " + d);
+				
+		//Ternary operator demonstration
 		  x = (10 == x) ? 1 : 0;	
 		  System.out.println(x);
 	}

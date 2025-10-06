@@ -1,6 +1,8 @@
+//Program to demonstrate identifiers 
 package com.tnsif.dayone;
 
-public class identifers {
+public class IdentifersDemo {
+
 	public static void main(String[] args) {
 		// variable declaration - Invalid Identifier Examples
 		
@@ -20,7 +22,7 @@ public class identifers {
 		int $number = 20; //starts with $
 		System.out.println("value of the number variable is : "+ $number);
 	
-		String studentName="logesh"; //use camelcase
+		String studentName="Aniket"; //use camelcase
 		System.out.println("value is : "+ studentName);
 		
 	

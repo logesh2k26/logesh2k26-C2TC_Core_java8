@@ -1,3 +1,4 @@
+//Program to define Person entity
 package com.tnsif.daythree.scannerdemo;
 
 public class Person {

@@ -1,6 +1,9 @@
+//Program to demonstrate Switch case
 package com.tnsif.daytwo;
 
-public class Switch {
+
+public class SwitchDemo 
+{
 	public static void main(String[] args) {
 
 		char x = 'l';
