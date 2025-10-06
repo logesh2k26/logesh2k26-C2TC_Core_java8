@@ -1,4 +1,4 @@
-package day_3.scannerdemo;
+package com.tnsif.daythree.scannerdemo;
 
 public class TaxCalculation {
 	// function to calculate tax
